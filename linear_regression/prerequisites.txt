@@ -1,0 +1,9 @@
+check out this 
+https://archive.ics.uci.edu/ml/datasets/Student+Performance
+
+best to create a virtualEnv
+python=3.10 || >3.7
+pandas
+numpy
+sklearn
+pickle --> to save models
