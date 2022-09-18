@@ -46,6 +46,10 @@ print("\npredictions: \n")
 for x in range(len(predictions)):
     print(predictions[x], x_test[x], y_test[x])
 print(len(predictions)," ",len(x_test))
+
+# predicting
+# print("predicting [[7,4,2,0,5,2]]:\n",linear.predict([[7,4,2,0,5,2]]))
+
 p = "G1" # "G2" "failures" etc.., check em out to see corelations
 style.use("ggplot")
 pyplot.scatter(data[p],data[predict])
