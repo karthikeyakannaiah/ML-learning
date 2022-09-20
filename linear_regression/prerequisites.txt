@@ -6,4 +6,5 @@ python=3.10 || >3.7
 pandas
 numpy
 sklearn
+matplotlib
 pickle --> to save models
