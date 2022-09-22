@@ -1,6 +1,7 @@
 # LINEAR REGRESSION
 check out this 
-https://archive.ics.uci.edu/ml/datasets/Student+Performance
+https://archive.ics.uci.edu/ml/datasets/Student+Performance  
+![image](LN.png)
 
 best to create a virtualEnv (I am using Conda)  
 python=3.10 || >3.7  
