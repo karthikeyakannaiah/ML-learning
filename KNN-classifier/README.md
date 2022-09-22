@@ -1,7 +1,8 @@
 # K NEAREST NEIGHBORS
 
 check out this 
-https://archive.ics.uci.edu/ml/datasets/Car+Evaluation
+https://archive.ics.uci.edu/ml/datasets/Car+Evaluation  
+![image](KNN.png)
 
 best to create a virtualEnv (I am using Conda)  
 python=3.10 || >3.7  
