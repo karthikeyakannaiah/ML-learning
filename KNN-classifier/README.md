@@ -17,7 +17,7 @@ pickle --> to save models
 Virtual ENV
 Install anaconda
 create virtual env
-### `conda create ENV_NAME`
+### `conda create --name ENV_NAME`
 In your 'cd' and goto file directory of where you want to code
 ### `conda activate ENV_NAME`
 Install the above listed packages using pip
